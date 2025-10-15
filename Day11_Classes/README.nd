@@ -1,0 +1,20 @@
+Day 11 – Classes in Python
+
+This folder contains **Object-Oriented Programming (OOP)** in Python.
+
+Topics Covered
+- Class and Object creation  
+- Constructors (`__init__`)  
+- Instance variables and methods  
+- Basic encapsulation and state handling  
+
+Programs Included
+1. Student_report_card.py – Calculates and displays student marks and average.  
+2. Bank_account_manager.py – Handles deposits and withdrawals with balance tracking.  
+3. Movie_ticket_system.py– Manages seat booking for a movie show.  
+4. Library_management.py– Adds and lists books in a mini library.  
+5. Course_enrollment_system.py  – Lets students enroll in multiple courses and view them.  
+6. Shopping_cart_system.py – Builds a small cart system to add items and view total.  
+
+Concept
+Classes help organize data and behavior together, making programs cleaner, reusable, and more realistic.
